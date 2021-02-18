@@ -1,0 +1,18 @@
+{
+    "IngenicoProd": {
+        "user": "hp",
+        "password": "5BF8571130",
+        "server": "192.168.0.29\\xpcell",
+        "database": "scar_ingenico",
+        "connectionTimeout": 720000,
+        "requestTimeout": 720000
+    },
+    "IngenicoTeste":{
+        "user": "hp",
+        "password": "5BF8571130",
+        "server": "br-sor-aws-04\\xpcell",
+        "database": "scar_ingenico",
+        "connectionTimeout": 720000,
+        "requestTimeout": 720000
+    }
+}

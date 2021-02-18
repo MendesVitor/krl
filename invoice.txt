@@ -1,0 +1,9 @@
+
+> api@1.0.0 invoice D:\nodejs\integracoes
+> set NODE_ENV=production&& node invoices.js
+
+Ambiente: production
+Server: 192.168.0.29\xpcell
+* Rotina de NF iniciada *
+* Buscando NFs... *
+* Total de chamados pendentes: 1653
